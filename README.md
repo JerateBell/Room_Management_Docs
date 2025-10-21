@@ -47,3 +47,5 @@ Tên dự án: Meeting Room Booking System
 ![Diagram](./system-diagram.png)
 
 ## Danh sách task
+
+https://docs.google.com/spreadsheets/d/1B6zeqSb25ajLFumJgnwlKJCh-Ihgz7XwllaB_mTlRfk/edit?usp=sharing
