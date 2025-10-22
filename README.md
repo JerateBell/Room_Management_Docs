@@ -44,6 +44,8 @@ Tên dự án: Meeting Room Booking System
 
 ## Kiến trúc tổng quan
 
-![Diagram](./Untitled%20diagram-2025-10-21-022257.png)
+![Diagram](./system-diagram.png)
 
 ## Danh sách task
+
+https://docs.google.com/spreadsheets/d/1B6zeqSb25ajLFumJgnwlKJCh-Ihgz7XwllaB_mTlRfk/edit?usp=sharing
